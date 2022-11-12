@@ -9,6 +9,7 @@ This is a solution to the Single Price Grid Component challenge on Frontend Ment
 # Design Overview
 
 Designed with the help of CSS Flexbox.
+Created with Mobile First approach and pure CSS.
  
 # Built with
 
