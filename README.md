@@ -4,7 +4,7 @@ This is a solution to the Single Price Grid Component challenge on Frontend Ment
 
 # Screenshot Laptop HiDPI Screen
 
-![image](https://github.com/mskDev0092/Frontend-Mentor-Single-Price-Grid-Component/blob/main/Screenshot%202022-11-12%20at%2020-33-57%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.png)
+![image](https://github.com/mskDev0092/Single-Price-Grid-Component/blob/main/Screenshot%202023-07-31%20at%2001-18-19%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.png)
 
 # Design Overview
 
